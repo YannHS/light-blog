@@ -13,5 +13,16 @@ I’m currently learning in [uOttawa](https://www.uottawa.ca/en)’s 2029 CO-OP 
 
 You can find me on [Codeberg](https://codeberg.org/bygones), [Github](https://github.com/YannHS), and  Email 📪  (yan@dierolf.ca).
 
-![](8831/88by31.gif) ![](8831/fediverse.gif) ![](8831/fftake.gif) ![](8831/gh-pages-bo.gif) ![](8831/hugo.gif) ![](8831/iamv2.gif) ![](8831/pmos.gif) ![](8831/right2repair.gif)
+
+{{% 8831 src="/8831/hugo.gif" href="https://gohugo.io" alt="Hugo" %}}
+{{% 8831 src="/8831/right2repair.gif" alt="right to repair" %}}
+{{% 8831 src="/8831/iamv2.gif" alt="I am canadian" %}}
+{{% 8831 src="/8831/gh-pages-bo.gif" alt="github pages" %}}
+{{% 8831 src="/8831/pmos.gif" href="https://postmarketos.org" alt="PostmarketOS" %}}
+{{% 8831 src="/8831/fftake.gif" href="https://mozilla.org" alt="Firefox" %}}
+{{% 8831 src="/8831/shonky.gif" href="https://github.com/blahaj-zone/shonky" alt="Shonky" %}}
+{{% 8831 src="/8831/fediverse.gif" href="https://jointhefediverse.net/join" alt="Fediverse" %}}
+{{% 8831 src="/8831/grapheneos.gif" href="https://grapheneos.org/" alt="GrapheneOS" %}}
+
+
 
