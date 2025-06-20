@@ -5,7 +5,7 @@ weight = 1
 +++
 Here you can find my Info-dumps and ramblings.
 
-My interests lie in **Urbanism 🚲**,**Computers 🖥️**, **Linux 🐧**, and **XR 🔭**. 
+My interests lie in **Urbanism 🚲**, s**Computers 🖥️**, **Linux 🐧**, and **XR 🔭**. 
 
 ![Biking around Ottawa](img/hobbies.webp)
 
