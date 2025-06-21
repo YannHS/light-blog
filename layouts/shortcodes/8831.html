@@ -4,9 +4,9 @@
 
 {{ if $href }}
   <a href="{{ $href }}">
-    <img src="{{ $src }}" alt="{{ $alt }}">
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy">
   </a>
 {{ else }}
-  <img src="{{ $src }}" alt="{{ $alt }}">
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy">
 {{ end }}
 
