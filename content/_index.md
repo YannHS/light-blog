@@ -3,6 +3,9 @@ title = "Home 🏠"
 menu = "main"
 weight = 1
 +++
+<br>
+
+---
 Here you can find my Info-dumps and ramblings.
 
 My interests lie in **Urbanism 🚲**, **Computers 🖥️**, **Linux 🐧**, and **XR 🔭**. 
