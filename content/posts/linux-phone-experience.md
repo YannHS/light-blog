@@ -7,7 +7,7 @@ tags = ["linux", "postmarketos"]
 
 # Daily driving a Linux Phone -  My Experience
 
-![A photograph of 3 phones (Pinephone, Opeplus 6, Pixel 3a) running firefox on PostmarketOS displaying postmarketos.org](img/linux-phone-experience.webp)
+![3 phones (Pinephone, Opeplus 6, Pixel 3a) running firefox on PostmarketOS displaying postmarketos.org](img/linux-phone-experience.webp)
 
 
 
@@ -33,13 +33,13 @@ After tolerating the Pinephone for a year, I looked for other options. I ended u
 * _The device will not wake from suspend for calls or SMS_, so suspend has to be disabled, though this is not much of a problem since the phone hardware is still able to last an entire day this way, and this also has the benefit of receiving internet notifications as well. 
 * _No GPS_. (There is apparently a way to flash a specific android version to enable the GPS, I could not figure this out). Since I need a navigational device to navigate my city's nonsensical bike network, I used an old android phone for navigation.
 
-![A photo of the Oneplus 6](img/oneplus.jpg)
+![The Oneplus 6](img/oneplus.jpg)
 
 Imagine how exited I was when I read the latest [PostmarketOS blog](https://postmarketos.org/blog/2024/08/25/pmOS-update-2024-08/) and found out the the camera on the [Pixel 3a](https://wiki.postmarketos.org/wiki/Google_Pixel_3a_(google-sargo)) was functional! I immediately looked to Kijiji again to see if I could find a Pixel 3a for a good price. I immediatly flashed the latest PostmarketOS Edge upon receiving it to see what the camera looked like. While I was impressed that a proper Linux phone had a working camera at all, the camera has a major issue that makes it almost useless to me: _There is no focus!_ The focus is locked to be as close as possible, so it's only really possible to take photos of small objects, like sharing your breakfast with friends. Even then, the photos have a green color to them and are cropped in, meaning the resolution and FOV of the phone camera is reduced. Looking at the [pmaports issue](https://gitlab.postmarketos.org/postmarketOS/pmaports/-/issues/3235) for cameras, it seems like lots of work is needed to get the camera backend to support focus at all, as well as actually getting the Pixel 3a hardware to work. The Pixel 3a had additional problems compared to the Oneplus 6 as well:
 * Call audio would sometimes not work, and when it did, would only use the loudspeaker.
 * The battery did not last long enough to last a day. I needed to charge midday to keep the phone running. (This could be due to a degraded battery, as the seller did warn me)
 
-![A screenshot of using the camera on the Pixel 3a](img/sargo-cam-demo.jpg)
+![Using the camera on the Pixel 3a](img/sargo-cam-demo.jpg)
 
 Overall, I really want to use PostmarketOS. The software does basically all I want out of a phone, and it does many thing better than Android. I really like how all the applications come from  central repository, meaning updates are at regular intervals. I like how notifications are only used to notify for communications. I like how I can sign into [Nextcloud](https://nextcloud.com/) and have Calender, Mail, Contacts and Files all work without dedicated sync applications or a different UX for each app. I like how the open applications stay in the order I left them. It's just that hardware support is lacking. 
 

@@ -7,7 +7,7 @@ Here you can find my Info-dumps and ramblings.
 
 My interests lie in **Urbanism 🚲**, **Computers 🖥️**, **Linux 🐧**, and **XR 🔭**. 
 
-![Biking around Ottawa](img/hobbies.webp)
+![Riding a bike in the snow, side view of a desktop PC, An arm with a hand tracking overlay, a small network setup on a shelf](img/hobbies.webp)
 
 I’m currently learning in [uOttawa](https://www.uottawa.ca/en)’s 2029 CO-OP Computer Engineering class. I am also a member of the uOttawa Aeronautics Team, a JMTS team that builds RC aircraft for SAE competitions.
 

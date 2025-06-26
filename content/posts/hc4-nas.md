@@ -7,7 +7,7 @@ tags = ["linux", "project", "sbc"]
 
 # Economic DIY NAS
 
-![A photograph of a small NAS constructed from laser cut MDF on a custom shelf made from 4040 aluminum extrusion](img/hc4-in-use.jpg)
+![A small NAS constructed from laser cut MDF on a custom shelf made from 4040 aluminum extrusion](img/hc4-in-use.jpg)
 
 Like many others who are interested in computers and have a lot a data to store, I got myself a Network Attached Storage (NAS) appliance. My main reasons for using a NAS instead of cloud storage or Direct Attach Storage (DAS) are:
 * Storing my data locally means that Google or Microsoft cannot access my personal files.

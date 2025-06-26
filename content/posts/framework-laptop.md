@@ -7,7 +7,7 @@ tags = ["linux", "hardware"]
 
 # My thoughts about the Framework 13
 
-![The Framework 13 in the palm of my hand](img/framework.jpeg)
+![The Framework 13 laptop in the palm of my hand](img/framework.jpeg)
 
 In 2020, I managed to get an old Lenovo Thinkpad X1 Yoga 1st Generation, a 2-in-1 convertible laptop from Lenovo. I got this laptop from a family member due to a broken fan that instead of spinning up, would spin up partially and then make this *horribly loud* "zzztt" noise, bring the fan to a stop, before the laptop would repeat the cycle all over again. Not only did the fan not work to cool the laptop, but it would also make everyone within a 20m radius look at you like you came from another planet, just because of how loud and weird the fan noise was. I managed to fix the fan issue by adding some lubrication to the fan motor, leaving me with a used but very competent and thin laptop.
 
