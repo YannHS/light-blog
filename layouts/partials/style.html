@@ -10,6 +10,7 @@
     --link-color: #b1006d;
     --visited-color: #8b6fcb;
     --code-background-color: #f2f2f2;
+    --background-image: url(bg.svg);
     --code-color: #222;
     --blockquote-color: #222;
   }
@@ -22,10 +23,12 @@
       --link-color: #ffc3ca;
       --visited-color: #ab8feb;
       --code-background-color: #000;
+      --background-image: url(bgd.svg);
       --code-color: #ddd;
       --blockquote-color: #ccc;
     }
   }
+
 
   body {
     font-family: var(--font-secondary);
@@ -35,6 +38,8 @@
     max-width: var(--width);
     text-align: left;
     background-color: var(--background-color);
+    background-image: var(--background-image);
+    background-repeat: repeat;
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
