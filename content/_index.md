@@ -11,7 +11,7 @@ My interests lie in **Urbanism 🚲**, **Computers 🖥️**, **Linux 🐧**, an
 
 I’m currently learning in [uOttawa](https://www.uottawa.ca/en)’s 2029 CO-OP Computer Engineering class. I am also a member of the uOttawa Aeronautics Team, a JMTS team that builds RC aircraft for SAE competitions.
 
-You can find me on [Codeberg](https://codeberg.org/bygones), [Github](https://github.com/YannHS), and  Email 📪  (yan@dierolf.ca).
+You can find me on [Codeberg](https://codeberg.org/bygones), [Github](https://github.com/YannHS), and  Email 📪  (**yanඞdierolf.ca**).
 
 
 {{% 8831 src="/8831/hugo.gif" href="https://gohugo.io" alt="Hugo" %}}
